@@ -1,5 +1,3 @@
-# demo https://blooming-wildwood-73154.herokuapp.com/
-
 # scrap_job
 
 scrap_job is a php web scraping top jobs for web platform like google jobs, indeed, glassdor and computrabajo
